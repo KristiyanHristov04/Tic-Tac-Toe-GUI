@@ -1,0 +1,20 @@
+D:\11b2grSG\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+D:\11b2grSG\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+D:\11b2grSG\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+D:\11b2grSG\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+D:\11b2grSG\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+D:\11b2grSG\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.Cache
+D:\11b2grSG\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+D:\11b2grSG\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+D:\11b2grSG\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojResolveAssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\tic-tac-toe-GUI\Кристиян Хр. 12б - Морски Шах\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\KrisPC\OneDrive\Desktop\tic-tac-toe-GUI\Кристиян Хр. 12б - Морски Шах\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\KrisPC\OneDrive\Desktop\tic-tac-toe-GUI\Кристиян Хр. 12б - Морски Шах\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\KrisPC\OneDrive\Desktop\tic-tac-toe-GUI\Кристиян Хр. 12б - Морски Шах\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\tic-tac-toe-GUI\Кристиян Хр. 12б - Морски Шах\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\KrisPC\OneDrive\Desktop\tic-tac-toe-GUI\Кристиян Хр. 12б - Морски Шах\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Users\KrisPC\OneDrive\Desktop\tic-tac-toe-GUI\Кристиян Хр. 12б - Морски Шах\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\KrisPC\OneDrive\Desktop\tic-tac-toe-GUI\Кристиян Хр. 12б - Морски Шах\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\KrisPC\OneDrive\Desktop\tic-tac-toe-GUI\Кристиян Хр. 12б - Морски Шах\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\tic-tac-toe-GUI\Кристиян Хр. 12б - Морски Шах\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\KrisPC\OneDrive\Desktop\tic-tac-toe-GUI\Кристиян Хр. 12б - Морски Шах\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
